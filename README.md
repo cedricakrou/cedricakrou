@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cedricakrou
-- 👀 I'm interested in mobile and backend development with java and kotlin.
-- 🌱 I’m currently learning Jetpack Compose.
-- 💞️ I am looking to collaborate on a remote android project.
-- 📫 You can reach me on linkedIn.
+- 👀 I'm interested in android development and backend development with java and kotlin.
+- 🌱 I’m currently learning Jetpack Compose, AngularJs .
+- 💞️ I am looking to collaborate a remote project also an open source project.
+- 📫 You can reach me on [linkedIn](https://www.linkedin.com/in/kakou-akrou-cedric-052338162/).
 
 <!---
 cedricakrou/cedricakrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
