@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cedricakrou
 - 👀 I'm interested in android development and backend development with java and kotlin.
-- 🌱 I’m currently learning Jetpack Compose, AngularJs .
+- 🌱 I’m currently learning NestJs, AngularJs .
 - 💞️ I am looking to collaborate a remote project also an open source project.
 - 📫 You can reach me on [linkedIn](https://www.linkedin.com/in/kakou-akrou-cedric-052338162/).
 
